@@ -1,3 +1,5 @@
+<?php
+
 // Artikel-Aktualisierung anzeigen
 function aktualisierung()
 {
