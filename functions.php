@@ -1,5 +1,10 @@
 <?php
 
+/*
+Füge den folgenden Code in die functions.php ein
+Add the following code to the functions.php
+*/
+
 // Artikel-Aktualisierung anzeigen
 function aktualisierung()
 {
